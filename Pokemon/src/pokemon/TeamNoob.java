@@ -12,8 +12,8 @@ public class TeamNoob extends PokeTeam{
 	public ArrayList<Pokemon> createTeam() {
 		ArrayList<Pokemon> arr=new ArrayList<Pokemon>();
 		arr.add(new Noob());
-		arr.add(new Noob());
-		arr.add(new Noob());
+		arr.add(new OnePunchMan());
+		arr.add(new OnePunchMan());
 		return arr;
 	}
 

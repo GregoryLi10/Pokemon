@@ -11,9 +11,9 @@ public class TeamGregory extends PokeTeam{
 	@Override
 	public ArrayList<Pokemon> createTeam() {
 		ArrayList<Pokemon> arr=new ArrayList<Pokemon>();
-		arr.add(new OneHitpoint());
 		arr.add(new OnePunchMan());
 		arr.add(new Melatonin());
+		arr.add(new OneHitpoint());
 		return arr;
 	}
 

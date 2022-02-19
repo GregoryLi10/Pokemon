@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class TeamGregory extends PokeTeam{
 
 	public TeamGregory() {
-		super("sleepy");
+		super("Melatonin allows you to 'Stay Asleep Longer'");
 	}
 
 	@Override

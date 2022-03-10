@@ -10,4 +10,5 @@ public class Move {
 		damage = dam; effect = eff;
 	}
 	
+	
 }
